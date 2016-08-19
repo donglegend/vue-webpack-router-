@@ -1,6 +1,6 @@
-# htmlwebpack
+# vue webpack test 
 
-> A Vue.js project
+> A app Project
 
 ## Build Setup
 
@@ -14,14 +14,5 @@ npm run dev
 # build for production with minification
 npm run build
 
-# run unit tests
-npm run unit
+借用vue-router 写了一个简单的 spa应用
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
